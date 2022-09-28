@@ -1,0 +1,25 @@
+.header {
+    overflow: hidden;
+    background-color: #eee9e9fc;
+    padding: 10px 5px;
+    margin-bottom: 5px;
+    position: sticky;
+    top:0px
+}
+
+.header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 15px;
+    border-radius: 4px;
+}
+
+.header a.movieListHeader {
+    font-size: 25px;
+    font-weight: bold;
+    cursor: auto;
+}

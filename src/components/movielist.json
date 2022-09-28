@@ -1,0 +1,305 @@
+[
+    {
+        "id": "1",
+        "title": "Game Night",
+        "year": "2018",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "releaseDate": "2018-02-28",
+        "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+        "actors": [
+            "Rachel McAdams",
+            "Jesse Plemons",
+            "Jason Bateman"
+        ],
+        "imdbRating": "5.8"
+    },
+    {
+        "id": "2",
+        "title": "Area X: Annihilation",
+        "year": "2018",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "releaseDate": "2018-02-23",
+        "storyline": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
+        "actors": [
+            "Tessa Thompson",
+            "Jennifer Jason Leigh",
+            "Natalie Portman"
+        ],
+        "imdbRating": "8.0"
+    },
+    {
+        "id": "3",
+        "title": "Hannah",
+        "year": "2017",
+        "genres": [
+            "Drama"
+        ],
+        "releaseDate": "2018-01-24",
+        "storyline": "Intimate portrait of a woman drifting between reality and denial when she is left alone to grapple with the consequences of her husband's imprisonment.",
+        "actors": [
+            "Charlotte Rampling",
+            "Andr\u00e9 Wilms",
+            "St\u00e9phanie Van Vyve"
+        ],
+        "imdbRating": "6.5"
+    },
+    {
+        "id": "4",
+        "title": "The Lodgers",
+        "year": "2017",
+        "genres": [
+            "Drama",
+            "Horror",
+            "Romance"
+        ],
+        "releaseDate": "2018-03-09",
+        "storyline": "1920, rural Ireland. Anglo Irish twins Rachel and Edward share a strange existence in their crumbling family estate. The consequences pull Rachel into a deadly confrontation with her brother - and with the curse that haunts them.",
+        "actors": [
+            "Charlotte Vega",
+            "David Bradley",
+            "Moe Dunford"
+        ],
+        "imdbRating": "5.8"
+    },
+    {
+        "id": "5",
+        "title": "Beast of Burden",
+        "year": "2018",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "releaseDate": "2018-02",
+        "storyline": "Sean Haggerty only has an hour to deliver his illegal cargo. An hour to reassure a drug cartel, a hitman, and the DEA that nothing is wrong. An hour to make sure his wife survives. And he must do it all from the cockpit of his Cessna.",
+        "actors": [
+            "Daniel Radcliffe",
+            "Grace Gummer",
+            "Pablo Schreiber"
+        ],
+        "imdbRating": "6.7"
+    },
+    {
+        "id": "6",
+        "title": "The Chamber",
+        "year": "2016",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "ratings": [
+            2,
+            10,
+            7,
+            10,
+            9,
+            9,
+            7,
+            4,
+            6,
+            2,
+            1,
+            10,
+            9,
+            4,
+            6,
+            8,
+            3,
+            5,
+            1,
+            1,
+            1,
+            5,
+            6,
+            9,
+            5,
+            4,
+            8,
+            8,
+            8,
+            8
+        ],
+        "releaseDate": "2017-03-10",
+        "storyline": "A claustrophobic survival thriller set beneath the Yellow Sea off the coast of North Korea where the pilot of a small submersible craft and a three man Special Ops team on a secret recovery mission become trapped underwater in a fight for survival.",
+        "actors": [
+            "Johannes Kuhnke",
+            "Charlotte Salt",
+            "James McArdle"
+        ],
+        "imdbRating": "4.4"
+    },
+    {
+        "id": "7",
+        "title": "Survivors Guide to Prison",
+        "year": "2018",
+        "genres": [
+            "Documentary"
+        ],
+        "releaseDate": "2018-02-23",
+        "storyline": "Following the stories of Bruce Lisker and Reggie Cole who spent year after year in prison for murders they didn't commit.Hosted by filmmaker Matthew Cooke and guest hosting representatives from the massive range of Americans joining forces to change this broken system.",
+        "actors": [
+            "Susan Sarandon",
+            "Patricia Arquette",
+            "Danny Trejo"
+        ],
+        "imdbRating": "6.0"
+    },
+    {
+        "id": "8",
+        "title": "Red Sparrow",
+        "year": "2018",
+        "genres": [
+            "Mystery",
+            "Thriller"
+        ],
+        "releaseDate": "2018-03-02",
+        "storyline": "A young Russian intelligence officer is assigned to seduce a first-tour CIA agent who handles the CIA's most sensitive penetration of Russian intelligence. The two young officers collide in a charged atmosphere of trade-craft, deception, and inevitably forbidden passion that threatens not just their lives but the lives of others as well.",
+        "actors": [
+            "Jennifer Lawrence",
+            "Joel Edgerton",
+            "Charlotte Rampling"
+        ],
+        "imdbRating": "5.0"
+    },
+    {
+        "id": "9",
+        "title": "Death Wish",
+        "year": "2018",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "releaseDate": "2018-04-13",
+        "storyline": "Dr. Paul Kersey (Bruce Willis) is a surgeon who only sees the aftermath of his city's violence as it's rushed into his ER -until his wife (Elisabeth Shue) and college-age daughter (Camila Morrone) are viciously attacked in their suburban home. With the police overloaded with crimes, Paul, burning for revenge, hunts for his family's assailants to deliver justice.",
+        "actors": [
+            "Bruce Willis",
+            "Vincent D'Onofrio",
+            "Elisabeth Shue"
+        ],
+        "imdbRating": "4.6"
+    },
+    {
+        "id": "10",
+        "title": "Foxtrot",
+        "year": "2017",
+        "genres": [
+            "Drama"
+        ],
+        "releaseDate": "2017-09-21",
+        "storyline": "A troubled family face the facts when something goes terribly wrong at their son's desolate military post.",
+        "actors": [
+            "Lior Ashkenazi",
+            "Sarah Adler",
+            "Yonaton Shiray"
+        ],
+        "imdbRating": "7.4"
+    },
+    {
+        "id": "11",
+        "title": "They Remain",
+        "year": "2018",
+        "genres": [
+            "Thriller"
+        ],
+        "releaseDate": "2018-01-28",
+        "storyline": "Two scientists who share a romantic history are tasked with investigating unnatural animal behaviour on the site of a Manson Family-style cult's compound.",
+        "actors": [
+            "William Jackson Harper",
+            "Rebecca Henderson"
+        ],
+        "imdbRating": "7.6"
+    },
+    {
+        "id": "12",
+        "title": "Submission",
+        "year": "2017",
+        "genres": [
+            "Drama"
+        ],
+        "releaseDate": "2017-10-13",
+        "storyline": "A cynical college professor takes a keen interest in a talented young writing student.",
+        "actors": [
+            "Stanley Tucci",
+            "Addison Timlin",
+            "Kyra Sedgwick"
+        ],
+        "imdbRating": "6.1"
+    },
+    {
+        "id": "13",
+        "title": "Souvenir",
+        "year": "2016",
+        "genres": [
+            "Drama",
+            "Music",
+            "Romance"
+        ],
+        "releaseDate": "2017-05-19",
+        "storyline": "Because of the stupid life in a p\u00e2t\u00e9-factory, former singer Laura falls in love with a colleague, a much younger boy and boxer, and after a small performance, a reenactment of her singing character, she tries to reenter the national song contest.                Written by\nimperiumclassicum",
+        "actors": [
+            "Isabelle Huppert",
+            "Johan Leysen"
+        ],
+        "imdbRating": "6.1"
+    },
+    {
+        "id": "14",
+        "title": "Dance Academy: The Movie",
+        "year": "2017",
+        "genres": [
+            "Drama"
+        ],
+        "releaseDate": "2017-04-06",
+        "storyline": "This 2017 movie follows the original dance academy TV show and tracks where the characters are in their lives now.",
+        "actors": [
+            "Alex Acosta",
+            "Alicia Banit",
+            "Chris Bartlett"
+        ],
+        "imdbRating": "7.0"
+    },
+    {
+        "id": "15",
+        "title": "Ett veck i tiden",
+        "year": "2018",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "releaseDate": "2018-04-06",
+        "storyline": "Following the discovery of a new form of space travel as well as Meg's father's disappearance, she, her brother, and her friend must join three magical beings - Mrs. Whatsit, Mrs. Who, and Mrs. Which - to travel across the universe to rescue him from a terrible evil.",
+        "actors": [
+            "Gugu Mbatha-Raw",
+            "Reese Witherspoon",
+            "Chris Pine"
+        ],
+        "imdbRating": "7.8"
+    },
+    {
+        "id": "16",
+        "title": "The Hurricane Heist",
+        "year": "2018",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "releaseDate": "2018-03-23",
+        "storyline": "Thieves attempt a massive heist against the U.S. Treasury as a Category 5 hurricane approaches one of its Mint facilities.",
+        "actors": [
+            "Toby Kebbell",
+            "Maggie Grace",
+            "Ryan Kwanten"
+        ],
+        "imdbRating": "6.8"
+    }
+]
